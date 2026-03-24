@@ -174,5 +174,6 @@
 <tr><td>167</td><td>电力场景电弧隔离开关手套头盔绝缘子火花变压器检测数据集VOC+YOLO格式4593张11类别</td><td><a href="https://mbd.pub/o/bread/YZWbk5puZA==">下载</a></td></tr>
 <tr><td>168</td><td>电力场景红外图像绝缘子检测数据集VOC+YOLO格式420张1类别</td><td><a href="https://mbd.pub/o/bread/YZWbk51pbA==">下载</a></td></tr>
 <tr><td>169</td><td>电力场景绝缘子破损自爆检测数据集VOC+YOLO格式702张2类别</td><td><a href="https://mbd.pub/o/bread/YZWckplrbA==">下载</a></td></tr>
+<tr><td>170</td><td>电力场景绝缘子破损识别分割数据集labelme格式1700张1类别</td><td><a href="https://mbd.pub/o/bread/YZWckptxZw==">下载</a></td></tr>
 </tbody>
 </table>

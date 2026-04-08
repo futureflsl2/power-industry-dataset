@@ -175,5 +175,7 @@
 <tr><td>168</td><td>电力场景红外图像绝缘子检测数据集VOC+YOLO格式420张1类别</td><td><a href="https://mbd.pub/o/bread/YZWbk51pbA==">下载</a></td></tr>
 <tr><td>169</td><td>电力场景绝缘子破损自爆检测数据集VOC+YOLO格式702张2类别</td><td><a href="https://mbd.pub/o/bread/YZWckplrbA==">下载</a></td></tr>
 <tr><td>170</td><td>电力场景绝缘子破损识别分割数据集labelme格式1700张1类别</td><td><a href="https://mbd.pub/o/bread/YZWckptxZw==">下载</a></td></tr>
+<tr><td>171</td><td>高压环境电力设施与安全工器具检测数据集VOC+YOLO格式9815张78类别</td><td><a href="https://mbd.pub/o/bread/YZWclpduag==">下载</a></td></tr>
+<tr><td>172</td><td>变电站红外图像高压设备过热检测数据集VOC+YOLO格式256张1类别</td><td><a href="https://mbd.pub/o/bread/YZWclpdtbQ==">下载</a></td></tr>
 </tbody>
 </table>

@@ -178,5 +178,8 @@
 <tr><td>171</td><td>高压环境电力设施与安全工器具检测数据集VOC+YOLO格式9815张78类别</td><td><a href="https://mbd.pub/o/bread/YZWclpduag==">下载</a></td></tr>
 <tr><td>172</td><td>变电站红外图像高压设备过热检测数据集VOC+YOLO格式256张1类别</td><td><a href="https://mbd.pub/o/bread/YZWclpdtbQ==">下载</a></td></tr>
 <tr><td>173</td><td>电力场景圆形仪表读数检测数据集VOC+YOLO格式7698张4类别</td><td><a href="https://mbd.pub/o/bread/YZWclplyZQ==">下载</a></td></tr>
+<tr><td>174</td><td>变电站红外和可见光配对数据集刀闸套管断路器电压电流互感器避雷器等检测数据集VOC+YOLO格式2354张17类1177对</td><td><a href="https://mbd.pub/o/bread/YZWcmpttaQ==">下载</a></td></tr>
+<tr><td>175</td><td>电力场景设备检测可见光设备部件检测数据集VOC+YOLO格式633张7类别</td><td><a href="https://mbd.pub/o/bread/YZWcmp1xaw==">下载</a></td></tr>
+<tr><td>176</td><td>电力设备红外图像与可见光图像配准数据集205对共410张无标注</td><td><a href="https://mbd.pub/o/bread/YZWcmp1vbA==">下载</a></td></tr>
 </tbody>
 </table>

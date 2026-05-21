@@ -184,5 +184,6 @@
 </tr>
 <tr><td>177</td><td>电力场景绝缘子和输电线塔检测数据集VOC+YOLO格式2022张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmp5xZg==">下载</a></td></tr>
 <tr><td>178</td><td>电力场景绝缘子缺陷检测数据集VOC+YOLO格式4086张3类别</td><td><a href="https://mbd.pub/o/bread/YZaTlJtwaQ==">下载</a></td></tr>
+<tr><td>179</td><td>电力场景配电站开关状态检测数据集VOC+YOLO格式1156张2类别有增强</td><td><a href="https://mbd.pub/o/bread/YZaTlJ5sZA==">下载</a></td></tr>
 </tbody>
 </table>

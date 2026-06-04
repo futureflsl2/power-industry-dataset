@@ -182,8 +182,11 @@
 <tr><td>175</td><td>电力场景设备检测可见光设备部件检测数据集VOC+YOLO格式633张7类别</td><td><a href="https://mbd.pub/o/bread/YZWcmp1xaw==">下载</a></td></tr>
 <tr><td>176</td><td>电力设备红外图像与可见光图像配准数据集205对共410张无标注</td><td><a href="https://mbd.pub/o/bread/YZWcmp1vbA==">下载</a></td>
 </tr>
-<tr><td>177</td><td>电力场景绝缘子和输电线塔检测数据集VOC+YOLO格式2022张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmp5xZg==">下载</a></td></tr>
+<tr><td>177</td><td>电力场景绝缘子和输电线塔检测数据集VOC+YOLO格式2022张2类别</td><td><a href="https://mbd.pub/o/bread/YZWcmp5xZg==">下载</a></td></tr>
 <tr><td>178</td><td>电力场景绝缘子缺陷检测数据集VOC+YOLO格式4086张3类别</td><td><a href="https://mbd.pub/o/bread/YZaTlJtwaQ==">下载</a></td></tr>
 <tr><td>179</td><td>电力场景配电站开关状态检测数据集VOC+YOLO格式1156张2类别有增强</td><td><a href="https://mbd.pub/o/bread/YZaTlJ5sZA==">下载</a></td></tr>
+<tr><td>179</td><td>电力场景配电站开关状态检测数据集VOC+YOLO格式1156张2类别有增强</td><td><a href="https://mbd.pub/o/bread/YZaTlJ5sZA==">下载</a></td></tr>
+<tr><td>180</td><td>电力场景仪表类型电流表电压表温度表压力表检测数据集VOC+YOLO格式3216张5类别</td><td><a href="https://mbd.pub/o/bread/YZaTlpZwZA==">下载</a></td></tr>
+<tr><td>181</td><td>电力场景高压输电线无人机巡检缺陷异常识别分割数据集labelme格式3454张23类别</td><td><a href="https://mbd.pub/o/bread/YZaTl5ZpaQ==">下载</a></td></tr>
 </tbody>
 </table>

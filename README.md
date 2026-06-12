@@ -188,5 +188,7 @@
 <tr><td>179</td><td>电力场景配电站开关状态检测数据集VOC+YOLO格式1156张2类别有增强</td><td><a href="https://mbd.pub/o/bread/YZaTlJ5sZA==">下载</a></td></tr>
 <tr><td>180</td><td>电力场景仪表类型电流表电压表温度表压力表检测数据集VOC+YOLO格式3216张5类别</td><td><a href="https://mbd.pub/o/bread/YZaTlpZwZA==">下载</a></td></tr>
 <tr><td>181</td><td>电力场景高压输电线无人机巡检缺陷异常识别分割数据集labelme格式3454张23类别</td><td><a href="https://mbd.pub/o/bread/YZaTl5ZpaQ==">下载</a></td></tr>
+<tr><td>182</td><td>电力场景钢丝绳连接处金属线夹检测数据集VOC+YOLO格式1175张1类别</td><td><a href="https://mbd.pub/o/bread/YZaTl5xpaA==">下载</a></td></tr>
+<tr><td>183</td><td>电力场景无人机视角高压线异常电力巡检缺陷检测数据集VOC+YOLO格式1163张9类别</td><td><a href="https://mbd.pub/o/bread/YZaTmJdqbA==">下载</a></td></tr>
 </tbody>
 </table>

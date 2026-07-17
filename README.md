@@ -190,5 +190,9 @@
 <tr><td>181</td><td>电力场景高压输电线无人机巡检缺陷异常识别分割数据集labelme格式3454张23类别</td><td><a href="https://mbd.pub/o/bread/YZaTl5ZpaQ==">下载</a></td></tr>
 <tr><td>182</td><td>电力场景钢丝绳连接处金属线夹检测数据集VOC+YOLO格式1175张1类别</td><td><a href="https://mbd.pub/o/bread/YZaTl5xpaA==">下载</a></td></tr>
 <tr><td>183</td><td>电力场景无人机视角高压线异常电力巡检缺陷检测数据集VOC+YOLO格式1163张9类别</td><td><a href="https://mbd.pub/o/bread/YZaTmJdqbA==">下载</a></td></tr>
+<tr><td>184</td><td>电力场景红外图像电力输电线部件识别分割数据集labelme格式1488张4类别</td><td><a href="https://mbd.pub/o/bread/YZaTmJlyZw==">下载</a></td></tr>
+<tr><td>185</td><td>电力场景输电线路螺孔螺母检测数据集VOC+YOLO格式1001张2类别</td><td><a href="https://mbd.pub/o/bread/YZaTmZdyZg==">下载</a></td></tr>
+<tr><td>186</td><td>电力场景户外高压跌落式熔断器跌落开关令克检测数据集VOC+YOLO格式819张1类别</td><td><a href="https://mbd.pub/o/bread/YZaUlJxubA==">下载</a></td></tr>
+<tr><td>187</td><td>电力场景电力输电线上杆塔架空绝缘导线黑皮线灼烧损伤脱皮缺陷检测数据集VOC+YOLO格式264张1类别</td><td><a href="https://mbd.pub/o/bread/YZaUlJxuZw==">下载</a></td></tr>
 </tbody>
 </table>

@@ -194,5 +194,8 @@
 <tr><td>185</td><td>电力场景输电线路螺孔螺母检测数据集VOC+YOLO格式1001张2类别</td><td><a href="https://mbd.pub/o/bread/YZaTmZdyZg==">下载</a></td></tr>
 <tr><td>186</td><td>电力场景户外高压跌落式熔断器跌落开关令克检测数据集VOC+YOLO格式819张1类别</td><td><a href="https://mbd.pub/o/bread/YZaUlJxubA==">下载</a></td></tr>
 <tr><td>187</td><td>电力场景电力输电线上杆塔架空绝缘导线黑皮线灼烧损伤脱皮缺陷检测数据集VOC+YOLO格式264张1类别</td><td><a href="https://mbd.pub/o/bread/YZaUlJxuZw==">下载</a></td></tr>
+<tr><td>188</td><td>电力场景高空作业场景下人员佩戴鞋帽绳检测数据集VOC+YOLO格式566张8类别</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9qaw==">下载</a></td></tr>
+<tr><td>189</td><td>电力场景高空作业危险识别安全带佩戴规范检测数据集VOC+YOLO格式359张4类别</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9qaQ==">下载</a></td></tr>
+<tr><td>190</td><td>电力场景高空作业攀爬作业安全绳安全带检测数据集VOC+YOLO格式578张4类别</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9paw==">下载</a></td></tr>
 </tbody>
 </table>

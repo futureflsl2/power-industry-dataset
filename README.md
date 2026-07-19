@@ -197,5 +197,6 @@
 <tr><td>188</td><td>电力场景高空作业场景下人员佩戴鞋帽绳检测数据集VOC+YOLO格式566张8类别</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9qaw==">下载</a></td></tr>
 <tr><td>189</td><td>电力场景高空作业危险识别安全带佩戴规范检测数据集VOC+YOLO格式359张4类别</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9qaQ==">下载</a></td></tr>
 <tr><td>190</td><td>电力场景高空作业攀爬作业安全绳安全带检测数据集VOC+YOLO格式578张4类别</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9paw==">下载</a></td></tr>
+<tr><td>191</td><td>电力场景高空作业危险识别安全带佩戴规范检测数据集VOC+YOLO格式1998张4类别</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9rZQ==">下载</a></td></tr>
 </tbody>
 </table>

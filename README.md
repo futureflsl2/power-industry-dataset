@@ -198,5 +198,9 @@
 <tr><td>189</td><td>电力场景高空作业危险识别安全带佩戴规范检测数据集VOC+YOLO格式359张4类别</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9qaQ==">下载</a></td></tr>
 <tr><td>190</td><td>电力场景高空作业攀爬作业安全绳安全带检测数据集VOC+YOLO格式578张4类别</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9paw==">下载</a></td></tr>
 <tr><td>191</td><td>电力场景高空作业危险识别安全带佩戴规范检测数据集VOC+YOLO格式1998张4类别</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9rZQ==">下载</a></td></tr>
+<tr><td>192</td><td>电力场景高清图像配电输电线杆塔缺陷检测数据集VOC+YOLO格式4481张5类别</td><td><a href="https://mbd.pub/o/bread/YZaUlZZqZQ==">下载</a></td></tr>
+<tr><td>193</td><td>电缆线黑皮导线缺陷可识别斑点划痕孔洞异物检测数据集VOC+YOLO格式975张4类别合成版</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9vaw==">下载</a></td></tr>
+<tr><td>194</td><td>电缆缺陷检测数据集VOC+YOLO格式608张1类别</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9vaA==">下载</a></td></tr>
+<tr><td>195</td><td>架空绝缘电缆缺陷胶皮缆线破损检测数据集VOC+YOLO格式3346张1类别</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9vZQ==">下载</a></td></tr>
 </tbody>
 </table>

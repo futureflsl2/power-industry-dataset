@@ -180,11 +180,9 @@
 <tr><td>173</td><td>电力场景圆形仪表读数检测数据集VOC+YOLO格式7698张4类别</td><td><a href="https://mbd.pub/o/bread/YZWclplyZQ==">下载</a></td></tr>
 <tr><td>174</td><td>变电站红外和可见光配对数据集刀闸套管断路器电压电流互感器避雷器等检测数据集VOC+YOLO格式2354张17类1177对</td><td><a href="https://mbd.pub/o/bread/YZWcmpttaQ==">下载</a></td></tr>
 <tr><td>175</td><td>电力场景设备检测可见光设备部件检测数据集VOC+YOLO格式633张7类别</td><td><a href="https://mbd.pub/o/bread/YZWcmp1xaw==">下载</a></td></tr>
-<tr><td>176</td><td>电力设备红外图像与可见光图像配准数据集205对共410张无标注</td><td><a href="https://mbd.pub/o/bread/YZWcmp1vbA==">下载</a></td>
-</tr>
-<tr><td>177</td><td>电力场景绝缘子和输电线塔检测数据集VOC+YOLO格式2022张2类别</td><td><a href="https://mbd.pub/o/bread/YZWcmp5xZg==">下载</a></td></tr>
+<tr><td>176</td><td>电力设备红外图像与可见光图像配准数据集205对共410张无标注</td><td><a href="https://mbd.pub/o/bread/YZWcmp1vbA==">下载</a></td></tr>
+<tr><td>177</td><td>电力场景绝缘子和输电线塔检测数据集VOC+YOLO格式2022张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmp5xZg==">下载</a></td></tr>
 <tr><td>178</td><td>电力场景绝缘子缺陷检测数据集VOC+YOLO格式4086张3类别</td><td><a href="https://mbd.pub/o/bread/YZaTlJtwaQ==">下载</a></td></tr>
-<tr><td>179</td><td>电力场景配电站开关状态检测数据集VOC+YOLO格式1156张2类别有增强</td><td><a href="https://mbd.pub/o/bread/YZaTlJ5sZA==">下载</a></td></tr>
 <tr><td>179</td><td>电力场景配电站开关状态检测数据集VOC+YOLO格式1156张2类别有增强</td><td><a href="https://mbd.pub/o/bread/YZaTlJ5sZA==">下载</a></td></tr>
 <tr><td>180</td><td>电力场景仪表类型电流表电压表温度表压力表检测数据集VOC+YOLO格式3216张5类别</td><td><a href="https://mbd.pub/o/bread/YZaTlpZwZA==">下载</a></td></tr>
 <tr><td>181</td><td>电力场景高压输电线无人机巡检缺陷异常识别分割数据集labelme格式3454张23类别</td><td><a href="https://mbd.pub/o/bread/YZaTl5ZpaQ==">下载</a></td></tr>
@@ -202,5 +200,7 @@
 <tr><td>193</td><td>电缆线黑皮导线缺陷可识别斑点划痕孔洞异物检测数据集VOC+YOLO格式975张4类别合成版</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9vaw==">下载</a></td></tr>
 <tr><td>194</td><td>电缆缺陷检测数据集VOC+YOLO格式608张1类别</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9vaA==">下载</a></td></tr>
 <tr><td>195</td><td>架空绝缘电缆缺陷胶皮缆线破损检测数据集VOC+YOLO格式3346张1类别</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9vZQ==">下载</a></td></tr>
+<tr><td>196</td><td>电力场景配网耐张线夹绝缘保护套安装状态检测数据集VOC+YOLO格式2375张2类别</td><td><a href="https://mbd.pub/o/bread/YZaUlphvag==">下载</a></td></tr>
+<tr><td>197</td><td>电力场景高清图像输电线电缆缺陷检测数据集VOC+YOLO格式150张1类别</td><td><a href="https://mbd.pub/o/bread/YZaUlppwZQ==">下载</a></td></tr>
 </tbody>
 </table>

@@ -202,5 +202,7 @@
 <tr><td>195</td><td>架空绝缘电缆缺陷胶皮缆线破损检测数据集VOC+YOLO格式3346张1类别</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9vZQ==">下载</a></td></tr>
 <tr><td>196</td><td>电力场景配网耐张线夹绝缘保护套安装状态检测数据集VOC+YOLO格式2375张2类别</td><td><a href="https://mbd.pub/o/bread/YZaUlphvag==">下载</a></td></tr>
 <tr><td>197</td><td>电力场景高清图像输电线电缆缺陷检测数据集VOC+YOLO格式150张1类别</td><td><a href="https://mbd.pub/o/bread/YZaUlppwZQ==">下载</a></td></tr>
+<tr><td>198</td><td>电力场景螺母缺失电塔锈蚀鸟巢检测数据集VOC+YOLO格式540张3类别</td><td><a href="https://mbd.pub/o/bread/YZaUlp5uaw==">下载</a></td></tr>
+<tr><td>199</td><td>电力场景输电线路杆塔植被覆盖滕蔓隐患检测数据集VOC+YOLO格式3992张2类别</td><td><a href="https://mbd.pub/o/bread/YZaUl5dsZg==">下载</a></td></tr>
 </tbody>
 </table>

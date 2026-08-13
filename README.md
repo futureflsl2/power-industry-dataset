@@ -204,5 +204,10 @@
 <tr><td>197</td><td>电力场景高清图像输电线电缆缺陷检测数据集VOC+YOLO格式150张1类别</td><td><a href="https://mbd.pub/o/bread/YZaUlppwZQ==">下载</a></td></tr>
 <tr><td>198</td><td>电力场景螺母缺失电塔锈蚀鸟巢检测数据集VOC+YOLO格式540张3类别</td><td><a href="https://mbd.pub/o/bread/YZaUlp5uaw==">下载</a></td></tr>
 <tr><td>199</td><td>电力场景输电线路杆塔植被覆盖滕蔓隐患检测数据集VOC+YOLO格式3992张2类别</td><td><a href="https://mbd.pub/o/bread/YZaUl5dsZg==">下载</a></td></tr>
+<tr><td>200</td><td>电力场景输电线缆绝缘导线有皮电线缺陷检测数据集VOC+YOLO格式1998张1类别</td><td><a href="https://mbd.pub/o/bread/YZaUmZxpaA==">下载</a></td></tr>
+<tr><td>201</td><td>电力场景耐张线夹腐蚀与鸟巢检测数据集VOC+YOLO格式267张2类别有增强</td><td><a href="https://mbd.pub/o/bread/YZaUmZtyaw==">下载</a></td></tr>
+<tr><td>202</td><td>电力场景悬垂线夹倾斜受力偏移检测数据集VOC+YOLO格式1275张1类别</td><td><a href="https://mbd.pub/o/bread/YZaUmZtyZg==">下载</a></td></tr>
+<tr><td>203</td><td>电力场景输电线杆塔塔头损伤损坏检测数据集VOC+YOLO格式981张2类别</td><td><a href="https://mbd.pub/o/bread/YZaUmZtxbQ==">下载</a></td></tr>
+<tr><td>204</td><td>电力场景悬垂线夹倾斜受力偏移检测数据集VOC+YOLO格式1275张1类别</td><td><a href="https://mbd.pub/o/bread/YZaUmZtyZw==">下载</a></td></tr>
 </tbody>
 </table>

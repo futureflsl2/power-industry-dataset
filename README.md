@@ -209,5 +209,10 @@
 <tr><td>202</td><td>电力场景悬垂线夹倾斜受力偏移检测数据集VOC+YOLO格式1275张1类别</td><td><a href="https://mbd.pub/o/bread/YZaUmZtyZg==">下载</a></td></tr>
 <tr><td>203</td><td>电力场景输电线杆塔塔头损伤损坏检测数据集VOC+YOLO格式981张2类别</td><td><a href="https://mbd.pub/o/bread/YZaUmZtxbQ==">下载</a></td></tr>
 <tr><td>204</td><td>电力场景悬垂线夹倾斜受力偏移检测数据集VOC+YOLO格式1275张1类别</td><td><a href="https://mbd.pub/o/bread/YZaUmZtyZw==">下载</a></td></tr>
+<tr><td>205</td><td>电力场景导线输电线脱离绝缘子间隔棒绝缘子缺少均压环检测数据集VOC+YOLO格式707张3类别</td><td><a href="https://mbd.pub/o/bread/YZaUmZxuZQ==">下载</a></td></tr>
+<tr><td>206</td><td>电力场景架空输电线路杆塔锈蚀鸟巢防震锤检测数据集VOC+YOLO格式199张3类别</td><td><a href="https://mbd.pub/o/bread/YZaUmpdqZQ==">下载</a></td></tr>
+<tr><td>207</td><td>电力场景绝缘子缺陷检测数据集VOC+YOLO格式1249张2类别有增强</td><td><a href="https://mbd.pub/o/bread/YZaUmp1xaw==">下载</a></td></tr>
+<tr><td>208</td><td>电力场景配电变压器围栏类型识别分割数据集labelme格式1382张4类别</td><td><a href="https://mbd.pub/o/bread/YZaUm5hwag==">下载</a></td></tr>
+<tr><td>209</td><td>电力场景变电站火灾检测数据集VOC+YOLO格式564张2类别</td><td><a href="https://mbd.pub/o/bread/YZaUm5hwZw==">下载</a></td></tr>
 </tbody>
 </table>

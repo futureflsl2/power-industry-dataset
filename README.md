@@ -214,5 +214,8 @@
 <tr><td>207</td><td>电力场景绝缘子缺陷检测数据集VOC+YOLO格式1249张2类别有增强</td><td><a href="https://mbd.pub/o/bread/YZaUmp1xaw==">下载</a></td></tr>
 <tr><td>208</td><td>电力场景配电变压器围栏类型识别分割数据集labelme格式1382张4类别</td><td><a href="https://mbd.pub/o/bread/YZaUm5hwag==">下载</a></td></tr>
 <tr><td>209</td><td>电力场景变电站火灾检测数据集VOC+YOLO格式564张2类别</td><td><a href="https://mbd.pub/o/bread/YZaUm5hwZw==">下载</a></td></tr>
+<tr><td>210</td><td>电力场景输电杆塔和输电线路TTPLA图像识别分割数据集labelme格式1240张5类别</td><td><a href="https://mbd.pub/o/bread/YZaVk5hraw==">下载</a></td></tr>
+<tr><td>211</td><td>电力场景红外可见光图像配电站电力设施要素隔离开关避雷器检测数据集VOC+YOLO格式2688张13类别</td><td><a href="https://mbd.pub/o/bread/YZaVlZtqaQ==">下载</a></td></tr>
+<tr><td>212</td><td>电力场景变电站设备识别关键部件识别分割数据集labelme格式1660张15类别</td><td><a href="https://mbd.pub/o/bread/YZaVlpZpag==">下载</a></td></tr>
 </tbody>
 </table>

@@ -217,5 +217,8 @@
 <tr><td>210</td><td>电力场景输电杆塔和输电线路TTPLA图像识别分割数据集labelme格式1240张5类别</td><td><a href="https://mbd.pub/o/bread/YZaVk5hraw==">下载</a></td></tr>
 <tr><td>211</td><td>电力场景红外可见光图像配电站电力设施要素隔离开关避雷器检测数据集VOC+YOLO格式2688张13类别</td><td><a href="https://mbd.pub/o/bread/YZaVlZtqaQ==">下载</a></td></tr>
 <tr><td>212</td><td>电力场景变电站设备识别关键部件识别分割数据集labelme格式1660张15类别</td><td><a href="https://mbd.pub/o/bread/YZaVlpZpag==">下载</a></td></tr>
+<tr><td>213</td><td>电力场景电力安全绳佩戴检测数据集VOC+YOLO格式1571张1类别</td><td><a href="https://mbd.pub/o/bread/YZaVlpdwaA==">下载</a></td></tr>
+<tr><td>214</td><td>电力场景杆塔高处作业人员安全绳安全带佩戴规范检测数据集VOC+YOLO格式100张9类别</td><td><a href="https://mbd.pub/o/bread/YZaVlp9qZQ==">下载</a></td></tr>
+<tr><td>215</td><td>电力场景变电站部件缺陷检测数据集VOC+YOLO格式8046张16类别</td><td><a href="https://mbd.pub/o/bread/YZaVl5pxaQ==">下载</a></td></tr>
 </tbody>
 </table>

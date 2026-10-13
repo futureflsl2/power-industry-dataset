@@ -220,5 +220,7 @@
 <tr><td>213</td><td>电力场景电力安全绳佩戴检测数据集VOC+YOLO格式1571张1类别</td><td><a href="https://mbd.pub/o/bread/YZaVlpdwaA==">下载</a></td></tr>
 <tr><td>214</td><td>电力场景杆塔高处作业人员安全绳安全带佩戴规范检测数据集VOC+YOLO格式100张9类别</td><td><a href="https://mbd.pub/o/bread/YZaVlp9qZQ==">下载</a></td></tr>
 <tr><td>215</td><td>电力场景变电站部件缺陷检测数据集VOC+YOLO格式8046张16类别</td><td><a href="https://mbd.pub/o/bread/YZaVl5pxaQ==">下载</a></td></tr>
+<tr><td>216</td><td>无人机视角电力场景下T电线杆塔检测数据集VOC+YOLO格式13790张1类别</td><td><a href="https://mbd.pub/o/bread/YZaVmJ5uag==">下载</a></td></tr>
+<tr><td>217</td><td>电力场景变电站缺陷可识别渗漏油异物金属腐蚀呼吸器变色检测数据集VOC+YOLO格式1171张5类别</td><td><a href="https://mbd.pub/o/bread/YZaVmpZxaA==">下载</a></td></tr>
 </tbody>
 </table>

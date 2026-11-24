@@ -8,7 +8,7 @@
 <tr><td>1</td><td>电力场景输电线导线散股检测数据集VOC+YOLO格式3890张1类别</td><td><a href="https://mbd.pub/o/bread/YZWZk5tuaA==">下载</a></td></tr>
 <tr><td>2</td><td>电力场景输电线路红外过热检测数据集VOC+YOLO格式2253张1类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89666112">下载</a></td></tr>
 <tr><td>3</td><td>电力场景配电变压器检测数据集VOC+YOLO格式2994张1类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89666062">下载</a></td></tr>
-<tr><td>4</td><td>电力场景输电线路螺栓销钉缺失检测数据集VOC+YOLO格式2504张4类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89665956">下载</a></td></tr>
+<tr><td>4</td><td>电力场景输电线路螺栓销钉缺失检测数据集VOC+YOLO格式2504张4类别</td><td><a href="https://mbd.pub/o/bread/YZaWl59waQ==">下载</a></td></tr>
 <tr><td>5</td><td>风力发电机叶片损伤检测数据集VOC+YOLO格式5029张8类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89665914">下载</a></td></tr>
 <tr><td>6</td><td>电力场景红外图像输电线路绝缘子检测数据集VOC+YOLO格式1846张1类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89665811">下载</a></td></tr>
 <tr><td>7</td><td>电力场景变电站控制柜状态检测数据集VOC+YOLO格式3000张16类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89665201">下载</a></td></tr>
@@ -229,5 +229,7 @@
 <tr><td>222</td><td>电力场景电力设备电线杆损坏检测数据集VOC+YOLO格式656张2类别</td><td><a href="https://mbd.pub/o/bread/YZaWlZtuaA==">下载</a></td></tr>
 <tr><td>223</td><td>电力场景电网施工安全防护检测数据集VOC+YOLO格式911张6类别</td><td><a href="https://mbd.pub/o/bread/YZaWlptpaw==">下载</a></td></tr>
 <tr><td>224</td><td>电力场景高空作业人员高空施工人员检测数据集VOC+YOLO格式1742张2类别</td><td><a href="https://mbd.pub/o/bread/YZaWlpZrbQ==">下载</a></td></tr>
+<tr><td>225</td><td>电力场景输电线路线缆损坏与异物检测数据集VOC+YOLO格式3968张2类别</td><td><a href="https://mbd.pub/o/bread/YZaWmJ9vZA==">下载</a></td></tr>
+<tr><td>226</td><td>电力场景输电线缆损坏缺陷检测数据集VOC+YOLO格式430张1类别</td><td><a href="https://mbd.pub/o/bread/YZaWmJ9vaQ==">下载</a></td></tr>
 </tbody>
 </table>

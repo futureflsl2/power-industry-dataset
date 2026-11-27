@@ -231,5 +231,7 @@
 <tr><td>224</td><td>电力场景高空作业人员高空施工人员检测数据集VOC+YOLO格式1742张2类别</td><td><a href="https://mbd.pub/o/bread/YZaWlpZrbQ==">下载</a></td></tr>
 <tr><td>225</td><td>电力场景输电线路线缆损坏与异物检测数据集VOC+YOLO格式3968张2类别</td><td><a href="https://mbd.pub/o/bread/YZaWmJ9vZA==">下载</a></td></tr>
 <tr><td>226</td><td>电力场景输电线缆损坏缺陷检测数据集VOC+YOLO格式430张1类别</td><td><a href="https://mbd.pub/o/bread/YZaWmJ9vaQ==">下载</a></td></tr>
+<tr><td>227</td><td>电力场景输电线路覆冰识别分割数据集labelme格式336张1类别有增强</td><td><a href="https://mbd.pub/o/bread/YZaWmZxvaQ==">下载</a></td></tr>
+<tr><td>228</td><td>电力场景除冰机器人视角输电线路覆冰结冰检测数据集VOC+YOLO格式1200张2类别</td><td><a href="https://mbd.pub/o/bread/YZaWmZxvZw==">下载</a></td></tr>
 </tbody>
 </table>
